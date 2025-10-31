@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center"> "Do or do not, there is no try"<br>
+— Yoda</div>
 
-<!--
-**codingatmyjob/codingatmyjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Self-studying Cybersecurity with a focus on network security and penetration testing.<br>
+Currently enjoying the HTB CTF environment, and learning exploits on a VirtualBox home lab setup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education & Experience
+
+**AAS in Network Systems Management**<br>
+**4 years** of hands-on experience with Cisco networking equipment
+
+## Technical Skills
+
+- **Front-end Web Development** → Building responsive and user-friendly interfaces
+- **Jupyter Notebooks** → Creating data analytics
+- **Cisco Networking** → Configuration, troubleshooting, and optimization
+- **Network Security** → Focused on penetration testing and vulnerability assessment
+
+## Certifications & Progress
+- NET+ 
+- SEC+ 
+- CYSA+ (Loading...)
+  
+
+### **[Project Portfolio](https://codingatmyjob.github.io/)**
+
+*Explore my projects, writeups, and technical documentation*
+
+</div>
