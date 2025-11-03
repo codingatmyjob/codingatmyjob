@@ -9,7 +9,8 @@ Currently enjoying the HTB CTF environment, and learning exploits on a VirtualBo
 ## Education & Experience
 
 **AAS in Network Systems Management**<br>
-**4 years** of hands-on experience with Cisco networking equipment
+4 years of hands-on experience with Cisco networking equipment
+4 years experience designing and building webapps
 
 ## Technical Skills
 
