@@ -4,13 +4,14 @@
 ## About Me
 
 Self-studying Cybersecurity with a focus on network security and penetration testing.<br>
-Currently enjoying the HTB CTF environment, and learning exploits on a VirtualBox home lab setup.
+Enjoy learning in the HTB CTF environment, and learning exploits on a VirtualBox home lab setup.<br>
+Learning MCP setup, LLM chatbot architecture, tool calling, prompt engineering, and prompt injection. 
 
 ## Education & Experience
 
 **AAS in Network Systems Management**<br>
 4 years of hands-on experience with Cisco networking equipment<br>
-4 years experience designing and building webapps
+5 years experience designing and building webapps, user workflows, and Jupyter notebooks.
 
 ## Technical Skills
 
