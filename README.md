@@ -4,8 +4,8 @@
 ## About Me
 
 Self-studying Cybersecurity with a focus on network security and penetration testing.<br>
-Enjoy learning in the HTB CTF environment, and learning exploits on a VirtualBox home lab setup.<br>
-Learning MCP setup, LLM chatbot architecture, tool calling, prompt engineering, and prompt injection. 
+Enjoy learning in the HTB CTF environment, and deconstructing exploits on a VirtualBox home lab setup.<br>
+Learning software architecture, LLM chatbot design, tool calling, prompt engineering, and prompt injection. 
 
 ## Education & Experience
 
@@ -16,13 +16,14 @@ Learning MCP setup, LLM chatbot architecture, tool calling, prompt engineering, 
 ## Technical Skills
 
 - **Front-end Web Development** → Building responsive and user-friendly interfaces
-- **Jupyter Notebooks** → Creating data analytics
-- **Cisco Networking** → Configuration, troubleshooting, and optimization
+- **Jupyter Notebooks** → Creating 'big data' analytics
+- **Cisco Networking** → Configuration, troubleshooting, and deployment
 - **Network Security** → Focused on penetration testing and vulnerability assessment
 
 ## Certifications & Progress
-- NET+ 
-- SEC+ 
+- NET+ (N10-009)
+- SEC+ (SY0-701)
+- OCI Foundations Associate (1Z0-1085-25)
 - CYSA+ (Loading...)
   
 
