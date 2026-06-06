@@ -27,7 +27,7 @@ Learning software architecture, LLM chatbot design, tool calling, prompt enginee
 - CYSA+ (Loading...)
   
 
-### **[Project Portfolio](https://codingatmyjob.github.io/)**
+### **[Tangent | Project Portfolio](https://codingatmyjob.github.io/)**
 
 *Explore my projects, writeups, and technical documentation*
 
