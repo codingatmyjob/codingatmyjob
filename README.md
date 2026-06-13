@@ -29,7 +29,7 @@ Also involved in software architecture, UI/UX, tool calling, prompt engineering,
 
 ### **[Tangent | Project Portfolio](https://codingatmyjob.github.io/)**
 
-*Explore my projects, writeups, and technical documentation*
+*Explore my projects, writeups, and technical documentation*<br>
 *Currently trying to upload an article every week!*
 
 </div>
