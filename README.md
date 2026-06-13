@@ -3,9 +3,9 @@
 
 ## About Me
 
-Self-studying Cybersecurity with a focus on network security and penetration testing.<br>
-Enjoy learning in the HTB CTF environment, and deconstructing exploits on a VirtualBox home lab setup.<br>
-Learning software architecture, LLM chatbot design, tool calling, prompt engineering, and prompt injection. 
+Studying Cybersecurity with a focus on penetration testing.<br>
+Enjoy learning in the HTB CTF environment, and deconstructing exploits on a VirtualBox home lab environment.<br>
+Also involved in software architecture, UI/UX, tool calling, prompt engineering, and prompt injection. 
 
 ## Education & Experience
 
