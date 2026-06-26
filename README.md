@@ -24,6 +24,7 @@ Also involved in software architecture, UI/UX, tool calling, prompt engineering,
 - NET+ (N10-009)
 - SEC+ (SY0-701)
 - OCI Foundations Associate (1Z0-1085-25)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 - CYSA+ (Loading...)
   
 
